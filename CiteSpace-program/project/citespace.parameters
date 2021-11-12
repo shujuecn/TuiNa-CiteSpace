@@ -1,0 +1,18 @@
+Date	November 10, 2021 at 7:53:02 PM CST
+Project Home	/Users/cuinuan/Desktop/tuina-cs/yiyu/project
+Data Home	/Users/cuinuan/Desktop/tuina-cs/yiyu/data
+Data Source	WoS
+From	2016-JAN
+To	2019-DEC
+Slice Length	1
+Title	true
+Abstract	true
+Descriptor	true
+Identifier	true
+Prune with PF	false
+Prune with MST	false
+Prune Slices	true
+Prune Merged	false
+Threshold Group 0	2, 2, 20
+Threshold Group 1	4, 3, 20
+Threshold Group 2	3, 3, 20
